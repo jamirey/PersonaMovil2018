@@ -6,4 +6,10 @@
     <string name="apellido">Apellido</string>
     <string name="guardar">GUARDAR</string>
     <string name="limpiar">LIMPIAR</string>
+    <string name="registar">Registar</string>
+    <string name="listar">Listar</string>
+    <string-array name="opciones">
+        <item>@string/registar</item>
+        <item>@string/listar</item>
+    </string-array>
 </resources>
