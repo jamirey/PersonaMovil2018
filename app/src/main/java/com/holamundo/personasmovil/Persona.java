@@ -36,7 +36,7 @@ public class Persona {
         this.apellido = apellido;
     }
 
-    private void guardar (){
+public void guardar (){
 
         Datos.guardar(this);
     }
